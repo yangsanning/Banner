@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SBannerView">
+        <attr name="sbv_margin_left" format="dimension" />
+        <attr name="sbv_margin_right" format="dimension" />
+        <attr name="sbv_indicator_normal_alpha" format="integer" />
+        <attr name="sbv_indicator_margin_bottom" format="dimension" />
+    </declare-styleable>
+</resources>
